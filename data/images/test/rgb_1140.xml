@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>Arun</folder>
 	<filename>rgb_1140.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\train\rgb_1140.png</path>
+	<path>F:\blu\1st setAnotation	completed\Arun\rgb_1140.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -249,6 +249,54 @@
 			<ymin>174</ymin>
 			<xmax>343</xmax>
 			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>284</ymin>
+			<xmax>687</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>149</ymin>
+			<xmax>622</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>412</ymin>
+			<xmax>689</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>373</ymin>
+			<xmax>423</xmax>
+			<ymax>542</ymax>
 		</bndbox>
 	</object>
 </annotation>
