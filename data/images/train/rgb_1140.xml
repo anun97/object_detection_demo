@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Arun</folder>
 	<filename>rgb_1140.png</filename>
-	<path>F:\blu\1st setAnotation	completed\Arun\rgb_1140.png</path>
+	<path>C:\Users\Meera\Documents\final project\blu\1st setAnotation	completed\Arun\rgb_1140.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -257,22 +257,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>496</xmin>
-			<ymin>284</ymin>
-			<xmax>687</xmax>
-			<ymax>418</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>room</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>447</xmin>
-			<ymin>149</ymin>
+			<xmin>445</xmin>
+			<ymin>162</ymin>
 			<xmax>622</xmax>
-			<ymax>296</ymax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -281,10 +269,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>500</xmin>
-			<ymin>412</ymin>
-			<xmax>689</xmax>
-			<ymax>577</ymax>
+			<xmin>496</xmin>
+			<ymin>285</ymin>
+			<xmax>686</xmax>
+			<ymax>422</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -293,10 +281,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>292</xmin>
-			<ymin>373</ymin>
-			<xmax>423</xmax>
-			<ymax>542</ymax>
+			<xmin>420</xmin>
+			<ymin>413</ymin>
+			<xmax>690</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>367</ymin>
+			<xmax>425</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>178</ymin>
+			<xmax>296</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>82</ymin>
+			<xmax>341</xmax>
+			<ymax>234</ymax>
 		</bndbox>
 	</object>
 </annotation>

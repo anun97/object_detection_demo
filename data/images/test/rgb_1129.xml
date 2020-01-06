@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Arun</folder>
 	<filename>rgb_1129.png</filename>
-	<path>F:\blu\1st setAnotation	completed\Arun\rgb_1129.png</path>
+	<path>C:\Users\Meera\Documents\final project\blu\1st setAnotation	completed\Arun\rgb_1129.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -221,22 +221,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>271</xmin>
-			<ymin>467</ymin>
-			<xmax>509</xmax>
-			<ymax>714</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>room</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>227</xmin>
-			<ymin>1</ymin>
-			<xmax>364</xmax>
-			<ymax>139</ymax>
+			<xmin>264</xmin>
+			<ymin>464</ymin>
+			<xmax>512</xmax>
+			<ymax>717</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -245,10 +233,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>581</ymin>
-			<xmax>647</xmax>
-			<ymax>719</ymax>
+			<xmin>496</xmin>
+			<ymin>586</ymin>
+			<xmax>652</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>4</ymin>
+			<xmax>364</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>271</ymin>
+			<xmax>362</xmax>
+			<ymax>465</ymax>
 		</bndbox>
 	</object>
 </annotation>
