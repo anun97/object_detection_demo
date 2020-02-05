@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sudharshan</folder>
+	<filename>rgb_2725.png</filename>
+	<path>C:\Users\Meera\Desktop\sudharshan\rgb_2725.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>296</ymin>
+			<xmax>216</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
